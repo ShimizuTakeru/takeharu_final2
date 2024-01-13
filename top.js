@@ -1,4 +1,4 @@
-$(function top88() {
+$(function () {
   // スクロールしたら「トップに戻る」ボタンが表示される
   const toTopButton = $(".js-to-top");
   const scrollHeight = 100;
