@@ -6,3 +6,7 @@ body {
 table.tyuou1{
     table-align: center;
 }
+
+table.waku{
+    border: solid thick black;
+}
