@@ -1,3 +1,8 @@
+/*ヘッダーの調整*/
+header aside {
+  display: block;
+}
+
 /*ナビゲーションボタン*/
 .navibutton {
     padding: 10px 15px;
