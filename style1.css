@@ -1,0 +1,9 @@
+/*ナビゲーションボタン*/
+.navibutton {
+    padding: 10px 15px;
+    background-color: #0000cd; /*mediumblue*/
+    color: white; /*白色の文字色*/
+    text-decoration: none; /*下線を消す*/
+    border-radius: 5px; /*角丸*/
+    transition: background-color 0.3s; /*アニメーション*/
+}
