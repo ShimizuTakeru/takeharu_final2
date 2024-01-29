@@ -16,7 +16,7 @@ function sentaku02(){document.getElementById('sentakushi').innerHTML='狭山湖'
 function sentaku03(){document.getElementById('sentakushi').innerHTML='長瀞';}
 function sentaku04(){document.getElementById('sentakushi').innerHTML='行田';}
 function kaitou02(){
-  if(document.getElementById('sentakushi').innerHTML='長瀞'){
+  if(document.getElementById('sentakushi').innerHTML==sentku03()){
     alert('正解！');}
   else{
     alert('不正解・・・');}
