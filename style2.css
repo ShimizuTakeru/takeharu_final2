@@ -15,3 +15,6 @@ footer{color: #0078ba;}
 
 //表の編集
 table.table1{border: solid thick black;}
+
+//文字を中央揃え
+body{text-align: center;}
