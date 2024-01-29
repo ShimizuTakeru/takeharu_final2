@@ -7,9 +7,5 @@
     alert('不正解・・・');}
 }*/
 
-function kaitou02(){
-  if(document.getElementById('sentaku').innerHTML){
-    alert('正解！');}
-  else{
-    alert('不正解・・・');}
-}
+function sentaku1(){alert('不正解・・・');}
+function sentaku2(){alert('正解！');}
