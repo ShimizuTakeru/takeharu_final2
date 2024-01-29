@@ -10,15 +10,5 @@ b.b2{color: #00984f;}
 
 footer{color: #0078ba;}
 
-body {
-    padding: 20px;
-    text-align: center; /*中央揃えにする*/
-}
-
-table.tyuou1{
-    table-align: center;
-}
-
-table.waku{
-    border: solid thick black;
-}
+//表の編集
+table.table1{border: solid thick black;}
