@@ -7,10 +7,16 @@
     alert('不正解・・・');}
 }*/
 
-function kotae02(){
+/*function kotae02(){
   alert('はずれ・・・');
 }
 
 function kotae03(){
   alert('正解！');
-}
+}*/
+
+/*function sayhello68(){alert('Hello,'+document.getElementById('who68').innerHTML+'!');}
+function taro68(){document.getElementById('who68').innerHTML='太郎';}
+function hanako68(){document.getElementById('who68').innerHTML='花子';}*/
+
+function sentaku01(){document.getElementById(
