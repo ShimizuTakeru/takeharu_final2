@@ -9,7 +9,7 @@
 
 function sentaku01(){document.getElementById('sentakushi').innerHTML='瀞峡・瀞八丁';}
 function sentaku02(){document.getElementById('sentakushi').innerHTML='狭山湖';}
-function sentaku03(){document.getElementById('sentakushi').innerHTML='長瀞';}
+function sentaku03(){document.getElementById('sentakushi2').innerHTML='長瀞';}
 function sentaku04(){document.getElementById('sentakushi').innerHTML='行田';}
 function kaitou02(){
   if(document.getElementById('sentakushi').value=='長瀞'){
