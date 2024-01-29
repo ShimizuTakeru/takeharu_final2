@@ -11,7 +11,7 @@ b.b1{color: #ff0000;}
 b.b2{color: #00984f;}
 
 /*フッターのカラー*/
-footer{color: #0078ba;}
+footer{background-color: #0078ba;}
 
 /*表の編集*/
 th.table1{border: solid thick black;}
