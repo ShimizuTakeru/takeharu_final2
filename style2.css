@@ -26,3 +26,6 @@ body{text-align: center;}
 
 /*文字を右揃え*/
 p.migi{text-align: right;}
+
+/*写真のサイズ変更*/
+img.imgchange1{width:990px; height:540px;}
