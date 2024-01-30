@@ -20,7 +20,7 @@ footer{color: #ffffff;}
 /*表の編集*/
 th.table1{border: solid thick black;}
 td.table1{border: solid thick black;}
-tr.tyuou1{text-align: center;}  /*表を中央揃え*/
+th, td.tyuou1{text-align: center;}  /*表を中央揃え*/
 
 /*文字を中央揃え*/
 body{text-align: center;}
