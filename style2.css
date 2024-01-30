@@ -17,11 +17,6 @@ b.b5{color: #c82c55;}
 footer{background-color: #008000;}
 footer{color: #ffffff;}
 
-/*表の編集*/
-th.table1{border: solid thick black;}
-td.table1{border: solid thick black;}
-/*th, td.tyuou1{text-align: center;} */ /*表を中央揃え*/
-
 /*文字を中央揃え*/
 body{text-align: center;}
 
