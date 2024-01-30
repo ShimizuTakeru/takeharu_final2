@@ -21,4 +21,5 @@ td.table1{border: solid thick black;}
 /*文字を中央揃え*/
 body{text-align: center;}
 
-p.migi{
+/*文字を右揃え*/
+p.migi{text-align: right;}
